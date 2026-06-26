@@ -1,0 +1,12 @@
+{
+	"assetsIndex": "a7be815b4e8e9cc1c06f2c9ffb2972552c040441",
+	"librariesIndex": "dbfaa7381757fdfdbe7a5c95566ccb484b3804e0",
+	"java": {
+		"32": "a452eefc68154dd21ca2d518d9bad2c519b9e6ec",
+		"64": "23cf3fb80bfeb1d627c59291855f32a89a338f6a"
+	},
+	"jvm_dll": {
+		"32": "c15046f60be4b4a4a0a9825db7327c4e161d00cc",
+		"64": "62bcd7bfc7dc52fdf8f012101e67a8b2fb32cd32"
+	}
+}
